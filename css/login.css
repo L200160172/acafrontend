@@ -1,0 +1,35 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+#wrapper {
+    margin: 80px;
+}
+
+.form-signin {
+    max-width: 380px;
+    margin: 0 auto;
+    background: white;
+    padding: 15px 40px 50px;
+    border: 2px solid #e5e5e5;
+    border-radius: 4px;
+}
+
+.form-signin input[type="text"], .form-signin input[type="password"]{
+    margin-bottom: 20px;
+}
+
+.form-signin .form-control{
+    padding: 20px;
+}
+
+.form-signin .btn-lg{
+    border: none;
+    background-color: #222222;
+}
+
+.form-signin .btn-lg:hover{
+    background-color: #080808;
+    border: none;
+}
